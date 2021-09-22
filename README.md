@@ -4,7 +4,7 @@
 
 
 <image align="left" src="https://user-images.githubusercontent.com/66861616/134354624-a9f333e9-76e7-435e-8dbd-b67688d714ae.gif"/>
-<p><b>My Interests🤗</b></p>
+<h2>My Interests🤗</h2>
 
 ### Some programming languages that I know:
 C, C++, Java, Python, JavaScript
