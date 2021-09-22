@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello I am Tuhin ![Learning-bro](https://user-images.githubusercontent.com/66861616/134350989-79cd77f4-68e6-4580-86c2-fd2c5b3148e3.png)
-
+![Tuhin_Profile](https://user-images.githubusercontent.com/66861616/134353949-cf8ef8d0-ba22-47fe-877d-e73c7991729a.png)
 
 ![Octoknight](https://user-images.githubusercontent.com/66861616/134351048-0e8eb4e7-9723-420a-a362-b5ceadf880bd.gif)
