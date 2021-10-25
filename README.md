@@ -10,3 +10,5 @@
 
 <h3>Technologies I use:</h3>
 <p>NodeJS, React, MongoDB, MySQL, Express, GraphQL</p>
+
+[![Tuhin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaskofDevil)](https://github.com/anuraghazra/github-readme-stats)
