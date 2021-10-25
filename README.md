@@ -8,7 +8,7 @@
 <image align="left" src="https://user-images.githubusercontent.com/66861616/137590868-f0d79502-566e-463c-bbe7-61a833684a73.gif"/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=MaskofDevil&layout=compact&theme=github_dark&hide_border=true&hide=tcl&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 
 ---
