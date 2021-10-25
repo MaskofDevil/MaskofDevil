@@ -5,6 +5,8 @@
 <h2>My Interests🤗</h2>
 <image align="left" src="https://user-images.githubusercontent.com/66861616/137590868-f0d79502-566e-463c-bbe7-61a833684a73.gif"/>
 
+---
+
 <h3>Some programming languages that I know:</h3>
 <p>C, C++, Java, Python, JavaScript</p>
 
@@ -17,4 +19,4 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaskofDevil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaskofDevil&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
