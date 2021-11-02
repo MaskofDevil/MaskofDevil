@@ -34,6 +34,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/66861616/138752449-552eb612-1e83-4920-a088-3befe9cf356d.png" />
 
 <br />
----
+<br />
+<br />
 
 ![snake gif](https://github.com/MaskofDevil/MaskofDevil/blob/output/github-contribution-grid-snake.gif)
