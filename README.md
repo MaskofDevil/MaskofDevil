@@ -32,3 +32,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/66861616/138752750-e1c41bcb-fe4d-4d9d-b15f-b3c788f36ed7.png" />
 <img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/66861616/138752401-0e99d5cc-be59-40be-99a4-3631054a5834.png" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/66861616/138752449-552eb612-1e83-4920-a088-3befe9cf356d.png" />
+
+---
+
+![snake gif](https://github.com/MaskofDevil/MaskofDevil/blob/output/github-contribution-grid-snake.gif)
