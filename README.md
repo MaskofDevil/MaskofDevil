@@ -19,6 +19,7 @@
 
 <img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/66861616/138752190-b00bb72a-99a8-4381-b7c6-13f1cac60dfc.png" />
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/66861616/138752308-a15035f5-6692-4229-9a91-24a4f21c4190.png" />
+<img align="left" alt="Flask" width="26px" src="https://user-images.githubusercontent.com/66861616/144009933-b79fdd27-c537-4c3c-a4a2-88fb102068ff.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
