@@ -24,6 +24,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://user-images.githubusercontent.com/66861616/138752637-e0e45694-2695-412c-a874-930cb3c9f277.png" />
+<img align="left" alt="Electron" width="26px" src="https://user-images.githubusercontent.com/66861616/152197233-a0afd822-f1bf-496c-aa34-292e4728ecc7.png" />
 <img align="left" alt="SQL" width="26px" src="https://user-images.githubusercontent.com/66861616/138752696-79315050-3c6a-4b97-bd1d-537c5a440426.png" />
 <img align="left" alt="MySQL" width="26px" src="https://user-images.githubusercontent.com/66861616/138752587-e95fa6f2-06a5-4b62-b725-463d6e7d79d5.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://user-images.githubusercontent.com/66861616/138752540-003d63c2-5813-4949-8749-7f0af6dab3ed.png" />
