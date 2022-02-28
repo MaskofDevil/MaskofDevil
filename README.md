@@ -41,4 +41,4 @@
 
 ![snake gif](https://github.com/MaskofDevil/MaskofDevil/blob/output/github-contribution-grid-snake.svg)
 
-![profile_views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&label=VIEWS)
+![profile_views](https://komarev.com/ghpvc/?username=MaskofDevil&style=flat-square&label=VIEWS)
