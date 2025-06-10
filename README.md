@@ -40,4 +40,9 @@
 <br />
 <br />
 
-![snake gif](https://github.com/MaskofDevil/MaskofDevil/blob/output/github-contribution-grid-snake.svg)
+<!---![snake gif](https://github.com/MaskofDevil/MaskofDevil/blob/output/github-contribution-grid-snake.svg)--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maskofdevil/maskofdevil/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maskofdevil/maskofdevil/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/maskofdevil/maskofdevil/output/github-snake.svg" />
+</picture>
