@@ -11,7 +11,7 @@
 
 ---
 
-[![Tuhin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaskofDevil&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Tuhin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaskofDevil&show_icons=true&theme=github_dark&hide_border=true&v=1)
 
 ---
 
